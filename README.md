@@ -1,8 +1,9 @@
 # Hide-Tab-Image-And-Name
 
 ## Why
-I made this for me and my friends at school (hapara can smd and allat other stuff)
-It rotates your tab names to Kendrick Aliases or whatever u want and also changes the tab icon to nothing
+I made this for me and my friends at school (hapara can smd and allat other stuff)\
+It rotates your tab names to Kendrick Aliases or whatever u want and also changes the tab icon to nothing\
+This is also my first every js project (W)
 
 ## How to use
 Download Tamper-Monkey or any other User Script executor
